@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Clayo';
+    src:
+        url('/assets/fonts/CLAYO.ttf') format('truetype'),
+        url('/assets/fonts/CLAYO.otf') format('otf');
+
+}
+
+@font-face {
+    font-family: 'Abyss';
+    src: url('/assets/fonts/Abyss.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
