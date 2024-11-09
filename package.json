@@ -31,7 +31,8 @@
     "remix-utils": "^7.6.0",
     "uuid": "^10.0.0",
     "zod": "^3.23.8",
-    "zodix": "^0.4.4"
+    "zodix": "^0.4.4",
+    "cross-env": "^7.0.3"
   },
   "devDependencies": {
     "@remix-run/dev": "^2.9.2",
@@ -46,7 +47,6 @@
     "@typescript-eslint/eslint-plugin": "^6.7.4",
     "@typescript-eslint/parser": "^6.7.4",
     "autoprefixer": "^10.4.19",
-    "cross-env": "^7.0.3",
     "eslint": "^8.38.0",
     "eslint-import-resolver-typescript": "^3.6.1",
     "eslint-plugin-import": "^2.28.1",
