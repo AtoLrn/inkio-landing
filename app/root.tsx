@@ -19,6 +19,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <Meta />
         <Links />
+        <script defer data-domain="inkio.co" src="https://plausible.io/js/script.js"></script>
       </head>
       <body>
         { navigation.state === 'loading' && <div className='absolute top-0 left-0 w-full h-1 flex'>
